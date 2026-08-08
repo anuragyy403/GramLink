@@ -62,6 +62,7 @@ Small and marginal farmers often struggle to find affordable equipment and labor
 
 ## 📁 Folder Structure
 
+```
 GramLink
 │
 ├── client
@@ -86,6 +87,8 @@ GramLink
 │
 ├── uploads
 └── README.md
+
+```
 
 ---
 
