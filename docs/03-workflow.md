@@ -8,7 +8,7 @@ The submitted data is stored in the database. The system then executes the **mat
 
 ## System Workflow
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     A[User opens the application] --> B[Register or Log in]
     B --> C[Select a category]
@@ -26,7 +26,7 @@ flowchart TD
     G --> H[Display the top three matches]
     H --> I[Contact the provider]
     I --> J[Resolve the request]
-\`\`\`
+```
 
 ## User Journey
 
@@ -43,7 +43,7 @@ flowchart TD
 
 ## Sequence Diagram
 
-\`\`\`mermaid
+```mermaid
 sequenceDiagram
     participant U as User
     participant F as Frontend (React)
@@ -76,7 +76,7 @@ sequenceDiagram
     DB-->>B: Confirmation
     B-->>F: Resolution confirmed
     F-->>U: Request resolved
-\`\`\`
+```
 
 ---
 ⬅️ [Previous: Features & Scope](./02-features-scope.md) | 🏠 [Documentation Home](./README.md) | ➡️ [Next: System Architecture](./04-architecture.md)
