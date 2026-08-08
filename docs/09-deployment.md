@@ -2,13 +2,13 @@
 
 ## Deployment Diagram
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     U[Users] --> F[React Frontend — Vercel]
     F --> B[Express Backend — Render]
     B --> D[(MongoDB Atlas)]
     B --> C[Cloudinary]
-\`\`\`
+```
 
 ## Deployment Layers
 

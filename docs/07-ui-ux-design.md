@@ -2,7 +2,7 @@
 
 ## Page Hierarchy
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     Home[Home Page] --> Login[Login Page]
     Home --> Register[Registration Page]
@@ -15,7 +15,7 @@ flowchart TD
     AdminCheck -->|Yes| AdminDash[Administrator Dashboard]
     Equipment --> Match
     Labor --> Match
-\`\`\`
+```
 
 ## Component Purpose
 

@@ -2,7 +2,7 @@
 
 ## Folder Structure
 
-\`\`\`
+```
 GramLink
 │
 ├── client
@@ -25,7 +25,7 @@ GramLink
 ├── docs
 ├── uploads
 └── README.md
-\`\`\`
+```
 
 | Folder | Purpose |
 |---|---|

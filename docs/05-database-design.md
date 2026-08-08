@@ -59,7 +59,7 @@ GramLink uses **MongoDB** with four core collections: **Users**, **Listings**, *
 
 ## ER Diagram
 
-\`\`\`mermaid
+```mermaid
 erDiagram
     USERS ||--o{ LISTINGS : "creates"
     LISTINGS ||--o{ MATCHES : "appears as source in"
@@ -103,7 +103,7 @@ erDiagram
         string email
         string role
     }
-\`\`\`
+```
 
 ## Relationships & Cardinality
 
