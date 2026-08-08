@@ -151,7 +151,7 @@ PORT=
 
 ## 📄 Full Documentation
 
-For detailed API request/response formats, ER diagrams, sequence diagrams, and UI wireframes, see [`docs/GramLink_Documentation.md`](./docs/GramLink_Documentation.md).
+For detailed API request/response formats, ER diagrams, sequence diagrams, and UI wireframes, see [`https://app.notion.com/p/GramLink_Documentation-3b600d344ab880008741f12635820519?source=copy_link`](.https://app.notion.com/p/GramLink_Documentation-3b600d344ab880008741f12635820519?source=copy_link.md).
 
 ---
 
